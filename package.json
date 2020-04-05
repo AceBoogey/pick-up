@@ -1,0 +1,23 @@
+{
+  "name": "pickup",
+  "version": "1.0.0",
+  "description": "Create pick up basketball queues for any basketball court",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pickup",
+    "basketball"
+  ],
+  "author": "Steve Abadilla",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "jquery": "^3.4.1",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.7"
+  }
+}
